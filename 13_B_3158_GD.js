@@ -34,7 +34,6 @@ function berikanUangSaku(daftar) {
     daftar.forEach((x) => x.terimaUangSaku(1500000));
 }
 
-// Uji coba eksekusi:
 const budi = new Programmer("Budi_3258");
 const rina = new Magang("Rina_3258");
 const sari = new Desainer("Sari_3258");
